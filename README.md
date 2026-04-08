@@ -1,6 +1,6 @@
 # Math Adventures - ML-Powered Adaptive Learning System
 
-An intelligent math learning platform that dynamically adjusts difficulty using both rule-based algorithms and machine learning. Features Google authentication, Firebase integration, real-time leaderboards, ELO-style rating system, and TensorFlow.js-powered adaptive difficulty adjustment.
+An intelligent math learning platform that dynamically adjusts difficulty using both rule-based algorithms and machine learning. Features Google authentication, Firebase integration, real-time leaderboards, ELO-style rating system, and TensorFlow.js-powered difficulty adjustment.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-green.svg)
